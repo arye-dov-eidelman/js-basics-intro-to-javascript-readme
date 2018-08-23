@@ -89,7 +89,7 @@ of _ES6_ or _ES2015_, the sixth version of JavaScript. Since then, they have
 released updates every year, including _ES2016_ and _ES201_, both of which have
 brought additional modern features into the language. 
 
-## Complilation and JavaScript
+## Compilation and JavaScript
 
 The name _JavaScript_ was chosen as a marketing ploy: the _Java_ language was
 all the rage in 1995. The two languages share very little in common. Some JS
